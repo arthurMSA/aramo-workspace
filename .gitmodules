@@ -1,0 +1,8 @@
+[submodule "falemais-client"]
+	path = falemais-client
+	url = https://github.com/arthur9010/falemais-client.git
+	branch = master
+[submodule "aramo-api"]
+	path = aramo-api
+	url = https://github.com/arthur9010/aramo-api
+	branch = master
