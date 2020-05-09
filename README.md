@@ -31,3 +31,8 @@ cd ./aramo-workspace
 cd ./aramo-api && git checkout master  
 cd ./falemais-client && git checkout master
 ```
+## Endpoints da api que foram utilizados
+GET: https://aramo-api.herokuapp.com/api/region
+GET: https://aramo-api.herokuapp.com/api/plan/calculate?origin=<DDD>&destination=<DDD>&time=minutes
+
+
