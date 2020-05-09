@@ -17,5 +17,17 @@
   Fiz deploy do client e da API no Heroku (https://www.heroku.com/platform).  
   O banco de dados está sendo utilizado em nuvem (https://www.mongodb.com/cloud)  
   API: https://aramo-api.herokuapp.com/  
-  CLIENT: https://falemais-client.herokuapp.com/  
-   
+  CLIENT: https://falemais-client.herokuapp.com/
+  
+### Clonando o projeto 
+```
+//clonando o repositório e os sub-repositórios
+git clone --recursive https://github.com/arthur9010/aramo-workspace
+
+//entrando no projeto
+cd ./aramo-workspace
+
+//mudando para a branch master
+cd ./aramo-api && git checkout master  
+cd ./falemais-client && git checkout master
+```
