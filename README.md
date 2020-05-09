@@ -1,5 +1,4 @@
 # ARAMO - FALEMAIS
-  Este projeto tem como objetivo atender a necessidade de manter receitas.
 
 ## Tecnologias utilizadas:
 * JavaScript
