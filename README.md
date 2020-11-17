@@ -15,9 +15,11 @@
 ### Como rodar o projeto:
   Todo este trabalho ja foi feito!  
   Deploy do client e da API foi realizado no Heroku (https://www.heroku.com/platform).  
-  O banco de dados está sendo utilizado em nuvem (https://www.mongodb.com/cloud)  
+  O banco de dados está sendo utilizado em nuvem (https://www.mongodb.com/cloud)
+  
   #OBS: CASO AS REGIÕES NÃO CARREGUEM NO PRIMEIRO ACESSO ATUALIZE  A PÁGINA;
-  PELO FATO DO CLOUD SER GRATUITO A APLICAÇÂO FICA DESATIVADO, QUANDO NÂO HÁ ACESSO, E ACABA TENDO PROBLEMA DE CONEXÃO COM A API.  
+  PELO FATO DO CLOUD SER GRATUITO A APLICAÇÂO FICA DESATIVADO, QUANDO NÂO HÁ ACESSO, E ACABA TENDO PROBLEMA DE CONEXÃO COM A API.
+  
   API: https://aramo-api.herokuapp.com/  
   CLIENT: https://falemais-client.herokuapp.com/  
   
